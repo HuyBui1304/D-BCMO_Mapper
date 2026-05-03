@@ -1,0 +1,7 @@
+Run 1:
+  Best n = 13, a = 0.0065
+  SC_adj = 0.295790
+  BCMO time         = 33410.24 seconds
+  Total runtime     = 33537.10 seconds
+  Convergence time  = 3037.29 seconds (at generation 1)
+--------------------------------------------------
