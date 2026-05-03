@@ -241,6 +241,6 @@ And the underlying methods:
 
 ## Contact
 
-For bugs or questions related to D_BCMO-Mapper, please open an issue on GitHub.
+For bugs or questions related to D_BCMO-Mapper, please open an issue on GitHub or contact: huybm.ds@gmail.com
 
 For questions about the original D-Mapper, contact: taoyy2022@shanghaitech.edu.cn
