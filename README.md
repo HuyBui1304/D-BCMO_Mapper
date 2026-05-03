@@ -220,20 +220,25 @@ If you use D_BCMO-Mapper in your research, please cite:
 And the underlying methods:
 
 ```bibtex
-@article{tao2024dmapper,
-  title   = {A distribution-guided Mapper algorithm},
-  author  = {Tao, Yuyang and Ge, Shufei},
-  journal = {arXiv:2401.12237},
-  year    = {2024}
+@article{tao2025distribution,
+  title={A distribution-guided Mapper algorithm},
+  author={Tao, Yuyang and Ge, Shufei},
+  journal={BMC bioinformatics},
+  volume={26},
+  number={1},
+  pages={73},
+  year={2025},
+  publisher={Springer}
 }
 
-@article{leduc2020bcmo,
-  title   = {Balancing composite motion optimization},
-  author  = {Le-Duc, Thuc and Nguyen, Quoc-Hung and Nguyen-Xuan, Hung},
-  journal = {Information Sciences},
-  volume  = {520},
-  pages   = {250--270},
-  year    = {2020}
+@article{le2020balancing,
+  title={Balancing composite motion optimization},
+  author={Le-Duc, Thang and Nguyen, Quoc-Hung and Nguyen-Xuan, Hung},
+  journal={Information Sciences},
+  volume={520},
+  pages={250--270},
+  year={2020},
+  publisher={Elsevier}
 }
 ```
 
